@@ -1,0 +1,6 @@
+repo: 40917ee3b688415e6d60213df618043669b32ed7
+node: 43f084bfce9995b7d91ebb0a08a511ca9c74a2c6
+branch: dispatcher
+latesttag: 0.11
+latesttagdistance: 22
+changessincelatesttag: 22
